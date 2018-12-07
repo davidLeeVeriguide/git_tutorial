@@ -9,6 +9,9 @@ public class git_tutorial {
 		
 		// Trying branching
 		System.out.println("This is a message written in subroutine!");
+		
+		// Testing after added .gitignore
+		System.out.println("Can I commit correctly?");
 	}
 	
 }
