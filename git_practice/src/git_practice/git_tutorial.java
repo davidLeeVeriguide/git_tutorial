@@ -14,6 +14,9 @@ public class git_tutorial {
 		System.out.println("A branch called subroutine is created!");
 		
 		// Comment, I just rebase with merge the subroutine file and copy the code above master's code
+		
+		// Try some new commits see if the gitignore is working
+		System.out.println("Working?");
 	}
 	
 }
